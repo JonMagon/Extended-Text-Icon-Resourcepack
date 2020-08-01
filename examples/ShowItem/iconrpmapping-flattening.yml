@@ -1865,8 +1865,8 @@ map:
   - chisled_sandstone # smooth_sandstone
   - cut_sandstone # chiseled_sandstone
   - quartz_block
-  - quartz_block:1 # pillar_quartz
-  - quartz_block:2 # chiseled_quartz
+  - quartz_pillar # pillar_quartz
+  - chiseled_quartz_block # chiseled_quartz
   - terracotta
   - glass
 
@@ -1939,9 +1939,9 @@ map:
   - jungle_leaves_hd
 
   - oak_stairs # oak_wood_stairs
-  - wood_stairs:1 # spruce_wood_stairs
-  - wood_stairs:2 # birch_wood_stairs
-  - wood_stairs:3 # jungle_wood_stairs
+  - spruce_stairs # spruce_wood_stairs
+  - birch_stairs # birch_wood_stairs
+  - jungle_stairs # jungle_wood_stairs
   - cobblestone_stairs
   - stone_brick_stairs # stone_brick_stairs
   - sandstone_stairs
