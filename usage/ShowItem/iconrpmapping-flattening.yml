@@ -3029,7 +3029,7 @@ map:
   - soul_torch
   - soul_soil
 
-  - unused
+  - cyan_candle
   - tube_coral_block
   - brain_coral_block
   - bubble_coral_block
@@ -3046,7 +3046,7 @@ map:
   - fire_coral_fan
   - horn_coral_fan
 
-  - unused
+  - copper_ingot
   - dead_tube_coral_block
   - dead_brain_coral_block
   - dead_bubble_coral_block
@@ -3077,8 +3077,8 @@ map:
   - pufferfish
   - cooked_cod
   - cooked_salmon
-  - unused
-  - unused
+  - candle
+  - bundle
 
   - nautilus_shell
   - heart_of_the_sea
@@ -3092,10 +3092,10 @@ map:
   - phantom_spawn_egg
   - dolphin_spawn_egg
   - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - brown_candle
+  - blue_candle
+  - black_candle
+  - axolotl_bucket
 
   - stripped_acacia_log
   - stripped_birch_log
@@ -3111,7 +3111,7 @@ map:
   - stripped_spruce_wood
   - smooth_red_sand_stone
   - smooth_quartz
-  - unused
+  - amethyst_shard
   - unused
 
   - quartz_bricks
@@ -3139,28 +3139,28 @@ map:
   - chiseled_nether_bricks
   - blackstone_wall
   - basalt
+  - yellow_candle
+  - white_candle
+  - spyglass
   - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - red_candle
+  - raw_iron
+  - raw_gold
+  - raw_copper
 
+  - purple_candle
+  - powder_snow_bucket
+  - pointed_dripstone
+  - pink_candle
+  - orange_candle
+  - music_disc_otherside
+  - magenta_candle
+  - lime_candle
   - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - light_gray_candle
+  - light_blue_candle
+  - green_candle
+  - gray_candle
+  - glow_item_frame
+  - glow_ink_sac
+  - glow_berries

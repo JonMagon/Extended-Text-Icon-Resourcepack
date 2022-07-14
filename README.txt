@@ -10,6 +10,6 @@ For the original 512x512px big pack take a look here: https://cdn.moep.tv/files/
 
 ~Phoenix616
 
-Phoenix616's resource pack updated to MC 1.16.
+Phoenix616's resource pack updated to MC 1.18.2.
 
 ~JonMagon (Dmitry Sidorov)
