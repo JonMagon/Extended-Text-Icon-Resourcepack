@@ -2978,56 +2978,56 @@ map:
   - red_bed_block # model
   - black_bed_block # model
 
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
+  - zombified_piglin_spawn_egg
+  - zoglin_spawn_egg
+  - target
+  - strider_spawn_egg
+  - shroomlight
+  - respawn_anchor
+  - polished_blackstone
+  - polished_blackstone_stairs
+  - polished_blackstone_slab
+  - polished_blackstone_bricks
+  - polished_blackstone_brick_stairs
+  - polished_blackstone_brick_slab
+  - piglin_spawn_egg
+  - piglin_brute_spawn_egg
+  - piglin_banner_pattern
+  - netherite_block
 
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
+  - lodestone
+  - hoglin_spawn_egg
+  - gilded_blackstone
+  - crying_obsidian
+  - cracked_polished_blackstone_bricks
+  - chiseled_polished_blackstone
+  - blackstone
+  - blackstone_stairs
+  - blackstone_slab
+  - ancient_debris
+  - weeping_vines
+  - warped_wart_block
+  - warped_trapdoor
+  - warped_stem
+  - warped_stairs
+  - warped_slab
 
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
-  - unused # reserved for colored
+  - warped_roots
+  - warped_pressure_plate
+  - warped_planks
+  - warped_nylium
+  - warped_hyphae
+  - warped_fungus
+  - warped_fence
+  - warped_fence_gate
+  - warped_button
+  - twisting_vines
+  - stripped_warped_stem
+  - stripped_warped_hyphae
+  - stripped_crimson_stem
+  - stripped_crimson_hyphae
+  - soul_torch
+  - soul_soil
 
   - unused
   - tube_coral_block
@@ -3114,31 +3114,31 @@ map:
   - unused
   - unused
 
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - quartz_bricks
+  - polished_blackstone_wall
+  - polished_blackstone_pressure_plate
+  - polished_blackstone_button
+  - polished_blackstone_brick_wall
+  - polished_basalt
+  - nether_gold_ore
+  - crimson_trapdoor
+  - crimson_stem
+  - crimson_stairs
+  - crimson_slab
+  - crimson_roots
+  - crimson_pressure_plate
+  - crimson_planks
+  - crimson_nylium
+  - crimson_hyphae
 
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - crimson_fungus
+  - crimson_fence
+  - crimson_fence_gate
+  - crimson_button
+  - cracked_nether_bricks
+  - chiseled_nether_bricks
+  - blackstone_wall
+  - basalt
   - unused
   - unused
   - unused
