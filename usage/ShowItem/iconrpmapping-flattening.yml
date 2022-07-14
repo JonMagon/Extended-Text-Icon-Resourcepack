@@ -1047,18 +1047,18 @@ map:
   # unicode_page_94:
   - tfda_zombie
   - tfda_woman
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - tadpole_bucket
+  - spruce_chest_boat
+  - recovery_compass
+  - oak_chest_boat
+  - music_disc_5
+  - mangrove_sign
+  - mangrove_propagule
+  - mangrove_door
+  - mangrove_chest_boat
+  - mangrove_boat
+  - jungle_chest_boat
+  - goat_horn
   - tfda_trapped_chest_tile
   - tfda_trapped_doublechest
   - tfda_speed
@@ -1068,11 +1068,11 @@ map:
   - tfda_nausea
   - tfda_blindness
   - tfda_wither_status
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - echo_shard
+  - disc_fragment_5
+  - dark_oak_chest_boat
+  - birch_chest_boat
+  - acacia_chest_boat
   - unused
   - unused
   - unused
