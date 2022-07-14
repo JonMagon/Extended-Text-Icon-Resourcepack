@@ -2,6 +2,6 @@
 
 Updated [WolfieMario's Text Icon Resourcepack](http://imgur.com/a/oHvbX) to the latest Minecraft.
 
-|Items       |Blocks    |
-|------------|----------|
-|Up to 1.18.2|Up to 1.16|
+|Items       |Blocks      |
+|------------|------------|
+|Up to 1.18.2|Up to 1.18.2|
