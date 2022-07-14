@@ -4,4 +4,4 @@ Updated [WolfieMario's Text Icon Resourcepack](http://imgur.com/a/oHvbX) to the 
 
 |Items       |Blocks      |
 |------------|------------|
-|Up to 1.19  |Up to 1.18.2|
+|Up to 1.19  |Up to 1.19  |

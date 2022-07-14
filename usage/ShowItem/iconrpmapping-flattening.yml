@@ -2343,26 +2343,26 @@ map:
   - budding_amethyst
   - amethyst_block
   - deepslate
-  - unused
-  - unused
-  - unused
+  - mangrove_stairs
+  - mud_brick_wall
+  - verdant_froglight
 
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - pearlescent_froglight
+  - ochre_froglight
+  - frogspawn
+  - warden_spawn_egg
+  - tadpole_spawn_egg
+  - frog_spawn_egg
+  - allay_spawn_egg
+  - mangrove_trapdoor
+  - mangrove_fence_gate
+  - mangrove_pressure_plate
+  - sculk_sensor
+  - mangrove_button
+  - sculk
+  - sculk_vein
+  - sculk_shrieker
+  - sculk_catalyst
 
   # unicode_page_99:
   - nether_star #glowing
@@ -2385,18 +2385,18 @@ map:
   - tfda_clock_sunset
   - tfda_clock_sunrise
   - tfda_clock_midnight
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
-  - unused
+  - mud_brick_stairs
+  - reinforced_deepslate
+  - packed_mud
+  - mud_bricks
+  - mangrove_fence
+  - mud_brick_slab
+  - mangrove_slab
+  - mangrove_leaves
+  - stripped_mangrove_wood
+  - mangrove_wood
+  - stripped_mangrove_log
+  - muddy_mangrove_roots
   - large_north_arrow
   - large_northeast_arrow
   - large_east_arrow
@@ -2405,10 +2405,10 @@ map:
   - large_southwest_arrow
   - large_west_arrow
   - large_northwest_arrow
-  - unused
-  - unused
-  - unused
-  - unused
+  - mangrove_roots
+  - mangrove_log
+  - mangrove_planks
+  - mud
   - unused
   - unused
   - unused
