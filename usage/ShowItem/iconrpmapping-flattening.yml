@@ -1049,7 +1049,6 @@ map:
   - tfda_woman
   - tadpole_bucket
   - spruce_chest_boat
-  - recovery_compass
   - oak_chest_boat
   - music_disc_5
   - mangrove_sign
@@ -1059,6 +1058,7 @@ map:
   - mangrove_boat
   - jungle_chest_boat
   - goat_horn
+  - echo_shard
   - tfda_trapped_chest_tile
   - tfda_trapped_doublechest
   - tfda_speed
@@ -1068,15 +1068,15 @@ map:
   - tfda_nausea
   - tfda_blindness
   - tfda_wither_status
-  - echo_shard
   - disc_fragment_5
-  - dark_oak_chest_boat
-  - birch_chest_boat
-  - acacia_chest_boat
-  - unused
-  - unused
-  - unused
-  - unused
+  - recovery_compass_south
+  - recovery_compass_southwest
+  - recovery_compass_west
+  - recovery_compass_northwest
+  - recovery_compass
+  - recovery_compass_northeast
+  - recovery_compass_east
+  - recovery_compass_southeast
   - unused
   - unused
   - unused
@@ -1266,9 +1266,9 @@ map:
   - witch_mob
   - open_shulker_mob
   - closed_shulker_mob
-  - unused
-  - unused
-  - unused
+  - dark_oak_chest_boat
+  - birch_chest_boat
+  - acacia_chest_boat
   - amenity_hidden_chest
   - amenity_multi_chest
   - amenity_hidden_trapped_chest
