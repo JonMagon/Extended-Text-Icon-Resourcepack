@@ -3091,7 +3091,7 @@ map:
   - phantom_membrane
   - phantom_spawn_egg
   - dolphin_spawn_egg
-  - unused
+  - bundle_filled
   - brown_candle
   - blue_candle
   - black_candle
@@ -3142,7 +3142,7 @@ map:
   - yellow_candle
   - white_candle
   - spyglass
-  - unused
+  - spyglass_model
   - red_candle
   - raw_iron
   - raw_gold
@@ -3156,7 +3156,7 @@ map:
   - music_disc_otherside
   - magenta_candle
   - lime_candle
-  - unused
+  - light
   - light_gray_candle
   - light_blue_candle
   - green_candle
